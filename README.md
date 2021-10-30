@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @OnlyExc
-- 👀 I’m interested in Coding & Movies & Manga
 - 🌱 I’m currently learning GO
 - 📫 How to reach me [@OnlyExcs](https://twitter.com/OnlyExcs)
